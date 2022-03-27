@@ -1,0 +1,1 @@
+/home/ashu/NEAR/openfund/contract/target/debug/libgreeter.so: /home/ashu/NEAR/openfund/contract/src/lib.rs /home/ashu/NEAR/openfund/contract/src/models.rs /home/ashu/NEAR/openfund/contract/src/utils.rs

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ashu/NEAR/openfund/contract/target/wasm32-unknown-unknown/debug/build/typenum-f286b84b88677e26/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ashu/NEAR/openfund/contract/target/wasm32-unknown-unknown/debug/build/typenum-f286b84b88677e26/out/op.rs
